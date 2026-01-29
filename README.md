@@ -1,3 +1,5 @@
+Project Domain : http://eazyschool-env.eba-99msun2d.eu-north-1.elasticbeanstalk.com/
+
 # School Project – Spring Backend Application
 
 ## About This Project
